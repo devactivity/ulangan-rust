@@ -1,2 +1,2 @@
 # ulangan-rust
-Koleksi utility functions umum di Pemgrograman Rust
+Koleksi utility functions umum di Pemrograman Rust
