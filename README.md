@@ -27,6 +27,8 @@ Tonton langsung melalui Playlist di [youtube](https://www.youtube.com/watch?v=Uf
 - [String](#string)
   - [Reverse Word](#reverse-word)
   - [Replace Char and Text](#replace-char-and-text)
+- [Integer](#integer)
+  - [Convert Number to Array](#convert-number-to-array)
 
 ## String
 
@@ -41,3 +43,11 @@ Download files: [disini](https://github.com/devactivity/ulangan-rust/tree/main/r
 Terdapat 2 jenis fungsi dalam contoh kasus yg diberikan.
 
 Download files: [disini](https://github.com/devactivity/ulangan-rust/tree/main/replace_in_string)
+
+## Integer
+
+## Convert Number to Array
+
+Konversi dilakukan secara manual dengan batasan dari method yg digunakan.
+
+Download files: [disini](https://github.com/devactivity/ulangan-rust/tree/main/number_to_array)
